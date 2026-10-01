@@ -1,0 +1,11 @@
+{
+  "name": "factory-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A tiny target repository for Personal Factory end-to-end runs.",
+  "scripts": {
+    "test": "node --test",
+    "lint": "node --check src/strings.js"
+  }
+}
